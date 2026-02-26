@@ -25,4 +25,3 @@ You will need the following Python libraries:
 
 ```bash
 pip install matplotlib numpy scipy
-python3 BiostatRedundancy.py

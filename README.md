@@ -1,5 +1,3 @@
-# BiostatRedundancy
-
 # Biome Redundancy Analysis & Statistical Validation
 
 This Python script performs statistical analysis and visualization of genomic data (such as miRNAs) across Brazilian biomes, focusing on the impact of redundancy thresholds.

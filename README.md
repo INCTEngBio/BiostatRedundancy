@@ -1,4 +1,5 @@
 # Biome Redundancy Analysis & Statistical Validation
+Authors: ELÍBIO LEOPOLDO RECH FILHO, DEBORAH BAMBIL, RAYANE NUNES LIMA, MARCO ANTÔNIO DE OLIVEIRA, PATRÍCIA VERDUGO PASCOAL, LUISA MAYUMI ARAKE DE TACCA
 
 This Python script performs statistical analysis and visualization of genomic data (such as miRNAs) across Brazilian biomes, focusing on the impact of redundancy thresholds.
 
